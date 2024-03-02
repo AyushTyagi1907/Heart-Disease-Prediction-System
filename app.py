@@ -22,7 +22,7 @@ with st.sidebar:
 
                            ['Heart Disease Prediction'],
                            menu_icon='hospital-fill',
-                           icons=['activity', 'heart', 'person'],
+                           icons=['heart'],
                            default_index=0)
 
     
